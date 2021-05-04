@@ -1,2 +1,1 @@
-# ArturoEstrada.github.io
-Upgrade Study
+# Upgrade Study
